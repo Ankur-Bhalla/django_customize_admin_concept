@@ -1,0 +1,1 @@
+# django_customize_admin_concept
